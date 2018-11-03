@@ -1,6 +1,10 @@
 # kubernetes-certification-preperation
 All Documents, Links, tutorials for preparing Kubernetes CKA certification
 
+## Certification Tips
+
+1. [CKA Exam Tips](http://madorn.com/certified-kubernetes-administrator-exam.html#.W91vdnozav4)
+
 ## Kubernetes Certification Coupon
 
 Get 16% Off on Kubernetes Certification
