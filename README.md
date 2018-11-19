@@ -18,3 +18,7 @@ Coupon Link: [Kubernetes Certification Coupon](https://ecoursedeals.com/kubernet
 #### Reference Materials While Setting up Cluster using Kubernetes the hard way
 
 1. [How Kubernetes uses certificates](https://www.youtube.com/watch?v=gXz4cq3PKdg)
+
+## Networking
+
+1. [Networking] (https://ahmet.im/blog/kubernetes-network-policy/)
